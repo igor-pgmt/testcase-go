@@ -2,7 +2,7 @@
 
 Работа функционала предлагается по следующей схеме:
 
-![Диаграмма](https://github.com/igor-pgmt/testcase-go/diagram.svg)
+![Диаграмма](https://github.com/igor-pgmt/testcase-go/blob/master/diagram.svg)
 
 1) Frontend показывает пользователю список товаров из базы.
 2) При запросе посмотреть информацию по конкретному товару, Frontend обращается к Endoint.
