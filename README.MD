@@ -1,5 +1,7 @@
 ## Реализация тестового задания 
 
+Текст задания находится в файле [test.pdf](https://github.com/igor-pgmt/testcase-go/blob/master/test.pdf).
+
 Работа функционала предлагается по следующей схеме:
 
 ![Диаграмма](https://github.com/igor-pgmt/testcase-go/blob/master/diagram.svg)
